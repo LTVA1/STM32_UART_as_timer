@@ -1,0 +1,6 @@
+core_cm4.h:1467:22:NVIC_EnableIRQ	16	static
+core_cm4.h:1480:22:NVIC_DisableIRQ	16	static
+main.c:6:6:DMA1_Channel4_IRQHandler	4	static
+main.c:21:6:set_72MHz	8	static
+main.c:63:6:init_clocks	4	static
+main.c:71:5:main	32	static
